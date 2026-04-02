@@ -4,6 +4,7 @@
 
 **Author:** Eric C. Thompson
 *Independent Researcher, Fulshear, Texas, USA*
+
 [ORCID: 0009-0001-4127-1742](https://orcid.org/0009-0001-4127-1742) | Email: ethompson06@gmail.com
 
 ---
