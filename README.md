@@ -50,6 +50,7 @@ $$D_{\mathrm{pred}} \propto T\,n^2\,k_{\mathrm{eff}}^2\,\Theta$$
 
 This experimental forecast relies on the theoretical foundation, transport scaling, and primitive-cell closures developed in the broader NDK research program. For the mathematical derivations and cosmological calibrations that inform this forecast, see the upstream Zenodo records:
 
+- **The Core NDK Framework:** [10.5281/zenodo.18665370](https://doi.org/10.5281/zenodo.18665370)
 - **The Transport Model & LMT Letter:** [10.5281/zenodo.19186680](https://doi.org/10.5281/zenodo.19186680)
 - **Emergent Schrödinger Dynamics from Fisher Transport:** [10.5281/zenodo.19338222](https://doi.org/10.5281/zenodo.19338222)
 - **Conditional Primitive-Cell Closure ($G$ and $\hbar$):** [10.5281/zenodo.19375997](https://doi.org/10.5281/zenodo.19375997)
