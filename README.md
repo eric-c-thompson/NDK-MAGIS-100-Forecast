@@ -23,6 +23,8 @@ The central claim is a residual contrast-loss law that survives ordinary technic
 The combined residual scaling law is therefore:
 $$D_{\mathrm{pred}} \propto T\,n^2\,k_{\mathrm{eff}}^2\,\Theta$$
 
+📚 Broader NDK Program ContextThis experimental forecast relies on the theoretical foundation, transport scaling, and primitive-cell closures developed in the broader NDK research program. For the mathematical derivations and cosmological calibrations that inform this forecast, see the upstream Zenodo records:The Transport Model & LMT Letter: 10.5281/zenodo.19186680Emergent Schrödinger Dynamics from Fisher Transport: 10.5281/zenodo.19338222Conditional Primitive-Cell Closure ($G$ and $\hbar$): 10.5281/zenodo.19375997The NDK Master Action: 10.5281/zenodo.19011014👤 AuthorEric C. Thompson Independent Researcher, Fulshear, Texas, USAORCID: 0009-0001-4127-1742Email: ethompson06@gmail.com
+
 ---
 
 ## 🛠️ Compilation Instructions
