@@ -17,7 +17,7 @@ This note translates the momentum-quadratic dephasing prediction of the Null-Dir
 
 ## Purpose and Scope
 
-The goal of this note is not to rederive the full transport framework, but to present a practical discrimination program for experiment. The central question is whether a residual contrast-loss component remains after ordinary technical channels are modeled and mitigated, and whether that residual follows the characteristic NDK transport scaling rather than standard pulse-infidelity, wavefront, inhomogeneity, or readout trends. :contentReference[oaicite:1]{index=1}
+The goal of this note is not to rederive the full transport framework, but to present a practical discrimination program for experiment. The central question is whether a residual contrast-loss component remains after ordinary technical channels are modeled and mitigated, and whether that residual follows the characteristic NDK transport scaling rather than standard pulse-infidelity, wavefront, inhomogeneity, or readout trends.
 
 ## Forecast Figures and Notebook Outputs
 
