@@ -24,16 +24,16 @@ The goal of this note is not to rederive the full transport framework, but to pr
 This repository includes code and figure assets for several complementary views of the closure-normalized forecast:
 
 - **Main residual dephasing forecast** (`magis-focused_dephasing_forecast.png`)  
-  A single-baseline 2D forecast showing the predicted residual dephasing as a function of LMT order \(n\), with a baseline operating point at \(T=9\,\mathrm{s}\) and \(\Theta=400\,\mathrm{pK}\), together with a model-side transfer sensitivity band from sweeps in \(\Theta\), \(k_{\rm eff}\), and \(w_{\mathrm{coh}}\). 
+  A single-baseline 2D forecast showing the predicted residual dephasing as a function of LMT order $n$, with a baseline operating point at $T=9\,\mathrm{s}$ and $\Theta=400\,\mathrm{pK}$, together with a model-side transfer sensitivity band from sweeps in $\Theta$, $k_{\rm eff}$, and $w_{\mathrm{coh}}$.
 
 - **Experimental transfer reach figure** (`magis-focused_dephasing_transfer_reach.png`)  
-  A preparation-side reach map evaluated at fixed \(T=9\,\mathrm{s}\) and \(n=1000\), showing how the predicted residual grows with transverse coherence-support width \(w_{\mathrm{coh}}\) across temperature families from \(200\) to \(600\,\mathrm{pK}\). This figure is intended to highlight where source-preparation changes provide the strongest experimental leverage. 
+  A preparation-side reach map evaluated at fixed $T=9\,\mathrm{s}$ and $n=1000$, showing how the predicted residual grows with transverse coherence-support width $w_{\mathrm{coh}}$ across temperature families from $200$ to $600\,\mathrm{pK}$. This figure is intended to highlight where source-preparation changes provide the strongest experimental leverage.
 
 - **Illustrative 3D surface**  
-  A single-parameter-choice visualization of the joint \(n\) and \(T\) dependence of the closure-normalized residual law. This surface is included for intuition rather than as a sensitivity-band forecast.
+  A single-parameter-choice visualization of the joint $n$ and $T$ dependence of the closure-normalized residual law. This surface is included for intuition rather than as a sensitivity-band forecast.
 
 - **Quick single-point calculator**  
-  A direct numerical calculator for evaluating \(D_{\mathrm{pred}}\) and the corresponding fractional visibility loss for a selected operating point.
+  A direct numerical calculator for evaluating $D_{\mathrm{pred}}$ and the corresponding fractional visibility loss for a selected operating point.
 
 ## Supporting Code
 
